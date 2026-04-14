@@ -1,6 +1,6 @@
 > [!WARNING]
 > This project is partly planned out using **claud.ai**.
-> Using **Claude** as a partner, I have 'discussed' and planned out potential aspects and features for this project, and using **Claude**, have it help me plan out and create milestones and issues for this project. So some issues will possibly be revised, removed, or otherwise changed, as I learn more about the acctual possibilities and needs for this project.
+> Using **Claude** as a partner, I have 'discussed' and planned out potential aspects and features for this project, and have it help me plan out and create milestones and issues for this project. So some issues will possibly be revised, removed, or otherwise changed, as I learn more about the acctual possibilities and needs for this project.
 
 # Welcome to the watchlist-extension project!
 
